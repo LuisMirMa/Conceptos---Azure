@@ -1,6 +1,5 @@
 ## Conceptos - Azure
 Conceptos sobre la nube y Azure
->Esto es una pruba
 
-*asereje ja deje*.-
-la la al
+###Acerca de la nube
+En términos prácticos, utilizar la nube, es utilizar el hardware de alguien más para realizar actividades en internet
